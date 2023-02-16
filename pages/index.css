@@ -177,6 +177,7 @@
   height: 100%;
   vertical-align: top;
   object-fit: cover;
+  align-items: center;
 }
 
 /*------------------------------------------------------------------------------------------*/
@@ -251,7 +252,7 @@
   max-width: 484px;
   font-weight: 400;
   font-size: 18px;
-  line-height: 1.63;
+  line-height: 1.61;
   margin: 0;
 }
 
