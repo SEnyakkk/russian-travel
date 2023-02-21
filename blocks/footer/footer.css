@@ -5,6 +5,13 @@
   flex-direction: row;
   justify-content: space-between;
 }
+@media screen and (max-width: 1024px) {
+  .footer {
+    flex-direction: column;
+    padding: 0 24px 24px;
+  }
+}
+
 @media screen and (max-width: 767px) {
   .footer {
     flex-direction: column;
