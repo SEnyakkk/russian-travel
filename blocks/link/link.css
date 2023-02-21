@@ -1,0 +1,13 @@
+.link {
+  font-weight: 400;
+  text-decoration-line: none;
+  color: white;
+  opacity: 1;
+  transition: opacity 0.5s;
+  cursor: url(../../image/Pointer.svg), auto;
+}
+
+.link:hover {
+  transition: opacity 0.5s;
+  opacity: 0.8;
+}

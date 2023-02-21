@@ -1,0 +1,7 @@
+.places-place__website-link {
+  font-size: 18px;
+  line-height: 1.22;
+  margin: 0;
+  text-decoration-line: underline;
+  text-underline-offset: 4px;
+}

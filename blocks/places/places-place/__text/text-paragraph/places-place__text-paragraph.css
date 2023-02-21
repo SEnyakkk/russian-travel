@@ -1,0 +1,23 @@
+.places-place__text-paragraph {
+  padding-bottom: 26px;
+  width: 100%;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.61;
+  margin: 0;
+}
+@media screen and (max-width: 1023px) {
+  .places-place__text-paragraph {
+    font-size: 16px;
+    line-height: 1.62;
+  }
+}
+@media screen and (max-width: 767px) {
+  .places-place__text-paragraph {
+    padding-bottom: 27px;
+  }
+}
+
+.places-place__text-paragraph:last-of-type {
+  padding-bottom: 0;
+}

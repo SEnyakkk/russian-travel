@@ -1,0 +1,8 @@
+places-place__text {
+  grid-area: text;
+}
+@media screen and (max-width: 767px) {
+  .places-place__text {
+    padding-left: 16px;
+  }
+}
