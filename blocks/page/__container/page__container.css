@@ -1,4 +1,4 @@
-.page__conteiner {
+.page__container {
   font-family: "Inter", sans-serif;
   font-style: normal;
   align-content: center;
@@ -6,4 +6,5 @@
   margin: 0 auto 0;
   background: #2a2c2f;
   color: white;
+  min-width: 320px;
 }

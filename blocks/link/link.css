@@ -4,7 +4,7 @@
   color: white;
   opacity: 1;
   transition: opacity 0.5s;
-  cursor: url(../../image/Pointer.svg), auto;
+  cursor: url(../../images/Pointer.svg), auto;
 }
 
 .link:hover {
